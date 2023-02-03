@@ -23,7 +23,7 @@ else:
 	i=num-1
 	while i>=2:
 		if num%i==0:
-			checkprim="no es primo"
+			checkprimo="no es primo"
 			break
 		else:
 			i=i-1
